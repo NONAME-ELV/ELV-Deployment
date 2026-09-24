@@ -1,4 +1,4 @@
-# HxN//ELV File Upload & `.htaccess` Manager
+# ELV Deployment with `.htaccess` Manager
 
 A minimal PHP web interface for uploading a file into the current working directory and creating/editing the local `.htaccess` file.
 
