@@ -1,8 +1,6 @@
 # ELV Deployment 
 
-Uploader & `.htaccess` Manager
-
-A minimal PHP web interface for uploading a file into the current working directory and creating/editing the local `.htaccess` file.
+Minimal PHP web interface for uploading a file into the current working directory and creating/editing the local `.htaccess` file.
 
 > **Important:** This README describes the behavior implemented by the supplied PHP source. The source itself does not contain authentication, authorization, filename validation beyond `basename()`, upload type restrictions, CSRF protection, or other access controls. Do not expose it to an untrusted or public environment without adding appropriate security controls.
 
