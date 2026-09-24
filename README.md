@@ -253,6 +253,4 @@ This documentation is based on the supplied PHP source code. It does not assume 
 
 ## License
 
-No license declaration is present in the supplied source file.
-
-If this project is intended for public distribution, add an explicit license file and corresponding project metadata.
+GNU General Public License v3.0
